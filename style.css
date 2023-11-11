@@ -1,0 +1,39 @@
+/* Add your custom styles here */
+body {
+    padding-top: 56px; /* Adjusted for the fixed navbar height */
+}
+
+header {
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
+}
+
+header h1 {
+    font-size: 3em;
+}
+
+header p {
+    font-size: 1.5em;
+}
+
+section {
+    padding: 60px 0;
+}
+
+section h2 {
+    font-size: 2.5em;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+}
