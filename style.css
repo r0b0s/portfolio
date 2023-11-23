@@ -2,8 +2,23 @@
 @font-face {font-family: "The Historia Demo"; src: url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.eot"); src: url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.woff") format("woff"), url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.svg#The Historia Demo") format("svg"); }
 
 @import url(//db.onlinewebfonts.com/c/9a2bc11be56851dde98c1b49302cc21a?family=Gotham+Medium);
-@font-face {font-family: "Gotham Medium"; src: url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.eot"); src: url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.woff") format("woff"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.svg#Gotham Medium") format("svg"); }/*Start global*/
+@font-face {font-family: "Gotham Medium"; src: url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.eot"); src: url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.woff") format("woff"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.svg#Gotham Medium") format("svg"); }
 
+@import url(https://db.onlinewebfonts.com/c/48c281b5af4a287544f8be3b33256618?family=Hello+Headline+W00+Regular);
+@font-face { font-family: "Hello Headline W00 Regular"; src: url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.eot"); src: url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.eot?#iefix")format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.woff2")format("woff2"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.woff")format("woff"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.ttf")format("truetype"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.svg#Hello Headline W00 Regular")format("svg"); }
+
+@import url(https://db.onlinewebfonts.com/c/201bb07928d22a1d2cf4aba3a93ce975?family=PP+Handwriting+Normal);
+@font-face {
+    font-family: "PP Handwriting Normal";
+    src: url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.eot");
+    src: url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.svg#PP Handwriting Normal")format("svg");
+}
+
+/*Start global*/
 
 *{
     margin: 0;
@@ -21,7 +36,7 @@ html{
 body{
     width: 100%;
     height: 100%;
-    background: black no-repeat center fixed;
+    background: rgb(5, 4, 35) no-repeat center fixed;
     background-size: cover;
 }
 
@@ -226,8 +241,8 @@ li{
 
 .landing-text h1{
     font-size: 20rem;
-    font-family: 'The Historia Demo',sans-serif;
-    background: linear-gradient(#f0c800ce,#ff5a3dcb);
+    font-family: 'PP Handwriting Normal',sans-serif;
+    background: linear-gradient(#f06000ce,#c29e00,#3d61ffcb);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding: 1rem;
@@ -370,7 +385,7 @@ li{
     transition: color 650ms;
 }
 
-.fa-medium:hover{
+.fa-meetup:hover{
     color: #ffffff;
 }
 
@@ -387,7 +402,7 @@ li{
     color: #ffffff ;
 }
 
-.fa-behance-square:hover{
+.fa-google:hover{
     color: #ffffff ;
 }
 
@@ -437,6 +452,10 @@ li{
     margin: 2rem -2px 2rem 0;
 
 }
+.skill h3:hover{
+    color: #c20000;
+}
+
 .skill h1{
     text-align: left;
     letter-spacing: 2px;
@@ -543,7 +562,7 @@ color:#c26700;
 }
 
 
-/*End services*/
+/*End portfolio*/
 
 /*Start timeline*/
 .timeline ul{
