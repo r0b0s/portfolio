@@ -522,6 +522,13 @@ color:#c26700;
     margin-bottom: 0;
 }
 
+.portfolio-item video {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 .portfolio-img{
     flex: .9;
 }
