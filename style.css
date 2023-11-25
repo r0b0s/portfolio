@@ -8,15 +8,7 @@
 @font-face { font-family: "Hello Headline W00 Regular"; src: url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.eot"); src: url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.eot?#iefix")format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.woff2")format("woff2"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.woff")format("woff"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.ttf")format("truetype"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.svg#Hello Headline W00 Regular")format("svg"); }
 
 @import url(https://db.onlinewebfonts.com/c/201bb07928d22a1d2cf4aba3a93ce975?family=PP+Handwriting+Normal);
-@font-face {
-    font-family: "PP Handwriting Normal";
-    src: url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.eot");
-    src: url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.eot?#iefix")format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.woff2")format("woff2"),
-    url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.woff")format("woff"),
-    url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.ttf")format("truetype"),
-    url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.svg#PP Handwriting Normal")format("svg");
-}
+@font-face { font-family: "PP Handwriting Normal"; src: url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.eot"); src: url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.eot?#iefix")format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.woff2")format("woff2"), url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.woff")format("woff"), url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.ttf")format("truetype"), url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.svg#PP Handwriting Normal")format("svg"); }
 
 /*Start global*/
 
@@ -242,7 +234,7 @@ li{
 .landing-text h1{
     font-size: 20rem;
     font-family: 'PP Handwriting Normal',sans-serif;
-    background: linear-gradient(#f06000ce,#c29e00,#3d61ffcb);
+    background: linear-gradient(#f05c00ce,#c29200,#2ee7ff,#7e3dffcb);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding: 1rem;
@@ -250,8 +242,12 @@ li{
 }
 
 .landing-text h6{
-    font-size: 2.5rem;
+    font-size: 3.5rem;
     font-weight: 300;
+    font-family: 'Hello Headline W00 Regular', sans-serif;
+    background: linear-gradient(rgb(186, 237, 4),#00ff26);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .left-circ{
