@@ -1,14 +1,14 @@
-@import url(//db.onlinewebfonts.com/c/0923ee644c97a87d70269aa80a6f1e79?family=The+Historia+Demo); 
-@font-face {font-family: "The Historia Demo"; src: url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.eot"); src: url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.woff") format("woff"), url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.svg#The Historia Demo") format("svg"); }
+@import url(https://db.onlinewebfonts.com/c/e39e186c833baa92f88ffa227bac7aef?family=anthem);
+@font-face {font-family: "anthem";src: url("https://db.onlinewebfonts.com/t/e39e186c833baa92f88ffa227bac7aef.eot");src: url("https://db.onlinewebfonts.com/t/e39e186c833baa92f88ffa227bac7aef.eot?#iefix")format("embedded-opentype"),url("https://db.onlinewebfonts.com/t/e39e186c833baa92f88ffa227bac7aef.woff2")format("woff2"),url("https://db.onlinewebfonts.com/t/e39e186c833baa92f88ffa227bac7aef.woff")format("woff"),url("https://db.onlinewebfonts.com/t/e39e186c833baa92f88ffa227bac7aef.ttf")format("truetype"),url("https://db.onlinewebfonts.com/t/e39e186c833baa92f88ffa227bac7aef.svg#anthem")format("svg");}
 
 @import url(//db.onlinewebfonts.com/c/9a2bc11be56851dde98c1b49302cc21a?family=Gotham+Medium);
 @font-face {font-family: "Gotham Medium"; src: url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.eot"); src: url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.woff") format("woff"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9a2bc11be56851dde98c1b49302cc21a.svg#Gotham Medium") format("svg"); }
 
 @import url(https://db.onlinewebfonts.com/c/48c281b5af4a287544f8be3b33256618?family=Hello+Headline+W00+Regular);
-@font-face { font-family: "Hello Headline W00 Regular"; src: url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.eot"); src: url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.eot?#iefix")format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.woff2")format("woff2"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.woff")format("woff"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.ttf")format("truetype"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.svg#Hello Headline W00 Regular")format("svg"); }
+@font-face {font-family: "Hello Headline W00 Regular"; src: url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.eot"); src: url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.eot?#iefix")format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.woff2")format("woff2"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.woff")format("woff"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.ttf")format("truetype"), url("https://db.onlinewebfonts.com/t/48c281b5af4a287544f8be3b33256618.svg#Hello Headline W00 Regular")format("svg"); }
 
-@import url(https://db.onlinewebfonts.com/c/201bb07928d22a1d2cf4aba3a93ce975?family=PP+Handwriting+Normal);
-@font-face { font-family: "PP Handwriting Normal"; src: url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.eot"); src: url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.eot?#iefix")format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.woff2")format("woff2"), url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.woff")format("woff"), url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.ttf")format("truetype"), url("https://db.onlinewebfonts.com/t/201bb07928d22a1d2cf4aba3a93ce975.svg#PP Handwriting Normal")format("svg"); }
+@import url(https://db.onlinewebfonts.com/c/8ab7b6ec8a78c1958112eeec9c36eef8?family=BusNormal);
+@font-face {font-family: "BusNormal";src: url("https://db.onlinewebfonts.com/t/8ab7b6ec8a78c1958112eeec9c36eef8.eot");src: url("https://db.onlinewebfonts.com/t/8ab7b6ec8a78c1958112eeec9c36eef8.eot?#iefix")format("embedded-opentype"),url("https://db.onlinewebfonts.com/t/8ab7b6ec8a78c1958112eeec9c36eef8.woff2")format("woff2"),url("https://db.onlinewebfonts.com/t/8ab7b6ec8a78c1958112eeec9c36eef8.woff")format("woff"),url("https://db.onlinewebfonts.com/t/8ab7b6ec8a78c1958112eeec9c36eef8.ttf")format("truetype"),url("https://db.onlinewebfonts.com/t/8ab7b6ec8a78c1958112eeec9c36eef8.svg#BusNormal")format("svg");}
 
 /*Start global*/
 
@@ -156,7 +156,7 @@ li{
 
 
 .nav-link{
-    font-family: 'The Historia Demo' ;   
+    font-family: 'anthem' ;   
     font-size: 5rem;
     padding: 1rem;
     color: #eee;
@@ -167,6 +167,7 @@ li{
 .nav-link:focus{
     background: linear-gradient(#f0c800ce,#ff5a3dcb);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -232,10 +233,11 @@ li{
 }
 
 .landing-text h1{
-    font-size: 20rem;
-    font-family: 'PP Handwriting Normal',sans-serif;
+    font-size: 17rem;
+    font-family: 'BusNormal',sans-serif;
     background: linear-gradient(#f05c00ce,#c29200,#2ee7ff,#7e3dffcb);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     padding: 1rem;
     user-select: none;
@@ -247,6 +249,7 @@ li{
     font-family: 'Hello Headline W00 Regular', sans-serif;
     background: linear-gradient(rgb(186, 237, 4),#00ff26);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
